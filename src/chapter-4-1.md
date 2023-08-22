@@ -1,5 +1,4 @@
-Automating Data Collection and Cleaning Processes with AI-Enabled Data Wrangling and Preprocessing
-======================================================================================================================================================================
+
 
 Small businesses generate vast amounts of data every day, from customer transactions to social media interactions. However, preparing this data for analysis can be a time-consuming and error-prone process, requiring significant manual effort.
 

@@ -1,5 +1,4 @@
-Enabling Data-Driven Decision-Making and Strategy Execution with AI-Enabled Forecasting and Simulation
-============================================================================================================================================================================
+
 
 Artificial intelligence (AI) is rapidly changing the landscape of small business analytics and insights. This chapter focuses on the impact of AI on small business analytics and insights, including its ability to enable data-driven decision-making and strategy execution through AI-enabled forecasting and simulation.
 

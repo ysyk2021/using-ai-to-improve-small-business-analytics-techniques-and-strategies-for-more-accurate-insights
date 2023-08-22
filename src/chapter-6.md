@@ -1,5 +1,4 @@
-Chapter 6: The Impact of AI on Small Business Analytics and Insights
-====================================================================
+
 
 Increasing Accuracy and Reliability of Small Business Data Analysis and Insights with AI-Enabled Optimization and Innovation
 ----------------------------------------------------------------------------------------------------------------------------

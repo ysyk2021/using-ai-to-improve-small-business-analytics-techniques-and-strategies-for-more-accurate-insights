@@ -1,5 +1,4 @@
-Chapter 3: Getting Started with AI-Enabled Small Business Analytics
-===================================================================
+
 
 Artificial intelligence (AI) offers small businesses a powerful tool for improving their analytics processes and gaining deeper insights into their operations and customers. However, implementing AI can be complex and challenging given the unique needs and constraints of each small business.
 
