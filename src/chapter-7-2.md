@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) technology offers small businesses a powerful tool for optimizing their analytics processes, gaining deeper insights into their operations and customers, and improving performance. However, to ensure that AI-enabled small business analytics are driving business value, it is essential to identify key performance metrics and goals. In this chapter, we will explore how to evaluate the impact of AI on small business analytics by identifying key performance metrics and goals for optimization.
 
 Identifying Key Performance Metrics

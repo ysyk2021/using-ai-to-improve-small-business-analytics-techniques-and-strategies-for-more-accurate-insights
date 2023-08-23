@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has enormous potential to transform the way small businesses approach analytics and improvement. By leveraging AI-powered tools and techniques, businesses can gain more accurate insights, make better decisions, and achieve better outcomes.
 
 Looking ahead, there are several trends that are likely to shape the future of AI in small business analytics and improvement:

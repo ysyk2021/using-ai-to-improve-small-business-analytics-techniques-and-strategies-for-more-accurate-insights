@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) offers small businesses a powerful tool for improving their analytics processes and gaining deeper insights into their operations and customers. However, to achieve optimal performance and profitability with AI, it's important to identify your small business goals and objectives.
 
 In this chapter, we will explore how to identify your small business goals and objectives for optimal performance and profitability with AI.
