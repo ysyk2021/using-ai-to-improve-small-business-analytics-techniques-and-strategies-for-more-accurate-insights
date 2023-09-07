@@ -8,3 +8,7 @@ Throughout this book, we will explore different AI techniques and strategies, in
 Whether you're a small business owner looking to optimize your operations, improve your customer experience, or gain a deeper understanding of your market, this book has something to offer. By the end, you will have the knowledge and tools necessary to harness the power of AI and transform your small business into a data-driven, innovative powerhouse. So let's get started on this journey towards improving your small business analytics with AI!
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
