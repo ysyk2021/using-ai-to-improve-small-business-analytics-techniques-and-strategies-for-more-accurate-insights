@@ -1,5 +1,4 @@
-Chapter 5: Enhancing Employee Performance and Productivity with AI-Enabled Talent Management and Performance Tracking
-=====================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significant role that Artificial Intelligence (AI) plays in improving talent management and performance tracking within small businesses. Managing employee performance effectively is crucial for the success and growth of any organization. With the help of AI-powered tools and strategies, small businesses can streamline their talent management processes, make data-driven decisions, and ultimately enhance their employees' productivity and performance.
 

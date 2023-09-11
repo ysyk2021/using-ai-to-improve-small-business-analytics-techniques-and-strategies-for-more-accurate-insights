@@ -1,5 +1,4 @@
-Chapter 2: Basic Concepts and Processes of AI Algorithms for Data Analytics and Visualization
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter serves as a foundational exploration of essential concepts and processes related to artificial intelligence (AI) algorithms in the context of data analytics and visualization for small businesses. Understanding these fundamentals is crucial for leveraging AI effectively in the pursuit of more accurate insights.
 

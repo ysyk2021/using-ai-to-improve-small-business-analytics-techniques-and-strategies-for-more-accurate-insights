@@ -1,5 +1,4 @@
-Chapter 8: Selecting the Right AI Tools and Platforms for Your Small Business Analytics Needs
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the critical considerations and best practices for small businesses in choosing the appropriate Artificial Intelligence (AI) tools and platforms to enhance their analytics capabilities. Making informed decisions about AI adoption is crucial for achieving accurate insights and maximizing the benefits of AI-driven analytics.
 

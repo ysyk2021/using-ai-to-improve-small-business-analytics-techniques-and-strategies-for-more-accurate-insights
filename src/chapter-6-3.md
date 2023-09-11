@@ -1,5 +1,4 @@
-Chapter 5: Creating Competitive Advantage and Business Value with AI-Enabled Small Business Analytics
-=====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the world of small business, leveraging advanced analytics and artificial intelligence (AI) can be a game-changer. This chapter delves into how small businesses can harness AI to create a competitive advantage and drive significant business value through enhanced analytics.
 

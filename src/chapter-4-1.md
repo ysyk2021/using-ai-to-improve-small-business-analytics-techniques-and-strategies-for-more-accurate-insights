@@ -1,5 +1,4 @@
-Chapter 3: Automating Data Collection and Cleaning Processes with AI-Enabled Data Wrangling and Preprocessing
-=============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of small business analytics, the effective collection and cleaning of data are foundational for generating accurate insights. This chapter explores how the integration of artificial intelligence (AI) streamlines data wrangling and preprocessing, enabling small businesses to work with clean, reliable data for analytics.
 

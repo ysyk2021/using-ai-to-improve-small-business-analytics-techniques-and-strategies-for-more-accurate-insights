@@ -1,5 +1,4 @@
-Chapter 7: Enhancing Data Visualization and Reporting with AI-Enabled Dashboarding and Storytelling
-===================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the transformative role of artificial intelligence (AI) in elevating data visualization and reporting for small businesses. By incorporating AI-enabled dashboarding and storytelling, small businesses can convey insights in a compelling and actionable manner.
 

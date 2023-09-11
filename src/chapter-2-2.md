@@ -1,5 +1,4 @@
-Chapter 4: Different Types of AI Techniques and Applications for Small Business Management and Improvement
-==========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the diverse range of artificial intelligence (AI) techniques and their practical applications in small business management and improvement. Understanding these AI methods is essential for small businesses seeking to leverage AI for enhanced decision-making and operational excellence.
 
